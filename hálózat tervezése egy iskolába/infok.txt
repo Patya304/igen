@@ -1,0 +1,5 @@
+Ha középre helyezük a kapcsolot (gray maszat) akkor 29m 
+Ha a bal alsó sarokba helyezük a kapcsolot (zöld maszat) akkor 30m
+Ha a bal felső sarokba helyezzük a kapcsolot (kek maszat) akkor 31m
+
+A kapcsolot kozepre erdemes helyezni. 
